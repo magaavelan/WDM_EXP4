@@ -15,8 +15,8 @@
 
 ### Program:
 ```
-Developed by: Akkireddy Ruchitha Reddy
-Register No: 212221230004
+Developed by: Magaavelan.S
+Register No: 212221040093
 ```
 ```
 # read the data
